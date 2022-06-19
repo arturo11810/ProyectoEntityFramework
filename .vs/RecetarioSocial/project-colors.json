@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "544f834e-7ac6-4d96-81b2-ac3ba22e817e": {
+      "ProjectGuid": "544f834e-7ac6-4d96-81b2-ac3ba22e817e",
+      "DisplayName": "RecetarioSocialServices",
+      "ColorIndex": 0
+    },
+    "5431dcca-70d7-4a48-bc5a-4a8f7c4308e5": {
+      "ProjectGuid": "5431dcca-70d7-4a48-bc5a-4a8f7c4308e5",
+      "DisplayName": "RecetarioSocialConsola",
+      "ColorIndex": 1
+    },
+    "74cada8e-bbc6-408e-9e4f-f4c4a2e47307": {
+      "ProjectGuid": "74cada8e-bbc6-408e-9e4f-f4c4a2e47307",
+      "DisplayName": "RecetarioSocialData",
+      "ColorIndex": 2
+    },
+    "2dfa722f-8db6-42cf-b709-30921d6a465d": {
+      "ProjectGuid": "2dfa722f-8db6-42cf-b709-30921d6a465d",
+      "DisplayName": "RecetarioSocialDomain",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

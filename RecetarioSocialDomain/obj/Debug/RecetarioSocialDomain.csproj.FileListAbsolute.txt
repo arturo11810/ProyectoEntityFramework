@@ -1,0 +1,14 @@
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\bin\Debug\RecetarioSocialDomain.dll.config
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\bin\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\bin\Debug\RecetarioSocialDomain.pdb
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.pdb
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\bin\Debug\RecetarioSocialDomain.dll.config
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\bin\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\bin\Debug\RecetarioSocialDomain.pdb
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialDomain\obj\Debug\RecetarioSocialDomain.pdb

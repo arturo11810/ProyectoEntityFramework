@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetarioSocialConsola", "RecetarioSocialConsola\RecetarioSocialConsola.csproj", "{5431DCCA-70D7-4A48-BC5A-4A8F7C4308E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetarioSocialDomain", "RecetarioSocialDomain\RecetarioSocialDomain.csproj", "{2DFA722F-8DB6-42CF-B709-30921D6A465D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecetarioSocial", "RecetarioSocial", "{29367FA6-EE06-4566-872A-814283916A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetarioSocialData", "RecetarioSocialData\RecetarioSocialData.csproj", "{74CADA8E-BBC6-408E-9E4F-F4C4A2E47307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecetarioSocialServices", "RecetarioSocialServices\RecetarioSocialServices.csproj", "{544F834E-7AC6-4D96-81B2-AC3BA22E817E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5431DCCA-70D7-4A48-BC5A-4A8F7C4308E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5431DCCA-70D7-4A48-BC5A-4A8F7C4308E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5431DCCA-70D7-4A48-BC5A-4A8F7C4308E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5431DCCA-70D7-4A48-BC5A-4A8F7C4308E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFA722F-8DB6-42CF-B709-30921D6A465D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFA722F-8DB6-42CF-B709-30921D6A465D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFA722F-8DB6-42CF-B709-30921D6A465D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFA722F-8DB6-42CF-B709-30921D6A465D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CADA8E-BBC6-408E-9E4F-F4C4A2E47307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CADA8E-BBC6-408E-9E4F-F4C4A2E47307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CADA8E-BBC6-408E-9E4F-F4C4A2E47307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CADA8E-BBC6-408E-9E4F-F4C4A2E47307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544F834E-7AC6-4D96-81B2-AC3BA22E817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544F834E-7AC6-4D96-81B2-AC3BA22E817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544F834E-7AC6-4D96-81B2-AC3BA22E817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544F834E-7AC6-4D96-81B2-AC3BA22E817E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2DFA722F-8DB6-42CF-B709-30921D6A465D} = {29367FA6-EE06-4566-872A-814283916A39}
+		{74CADA8E-BBC6-408E-9E4F-F4C4A2E47307} = {29367FA6-EE06-4566-872A-814283916A39}
+		{544F834E-7AC6-4D96-81B2-AC3BA22E817E} = {29367FA6-EE06-4566-872A-814283916A39}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEDC69D-7A86-4CC8-9335-4B31962ECC89}
+	EndGlobalSection
+EndGlobal

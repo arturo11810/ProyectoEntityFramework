@@ -1,0 +1,45 @@
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.dll.config
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.pdb
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.pdb
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.dll.config
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.xml
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.CopyComplete
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.dll
+C:\Users\artur\source\repos\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.pdb
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.pdb
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.dll.config
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.pdb
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.pdb
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.dll.config
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.xml
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artur\Desktop\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.CopyComplete
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.dll.config
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.dll
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialData.pdb
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.dll
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.dll
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.pdb
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\RecetarioSocialDomain.dll.config
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.xml
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.csproj.CopyComplete
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.dll
+C:\Users\artur\Desktop\Modelo Dual\Taller ingeniera Eli\Proyecto Recetario social mi solucion\RecetarioSocial\RecetarioSocialData\obj\Debug\RecetarioSocialData.pdb
